@@ -16,6 +16,7 @@ public class staticPayment {
 		System.out.println("Snapdeal - Please complete the payment process");	
 		}
 //learning git + Maven
-//making updates and checking in GIT repository		
+//making updates and checking in GIT repository -- This is push v2
+//this is pull v2	
 	}
 
