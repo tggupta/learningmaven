@@ -15,5 +15,6 @@ public class staticPayment {
 		public void getPaymentSnapdeal(){
 		System.out.println("Snapdeal - Please complete the payment process");	
 		}
+//learning git + Maven
 	}
 
