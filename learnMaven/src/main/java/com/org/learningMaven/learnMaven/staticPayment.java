@@ -17,5 +17,6 @@ public class staticPayment {
 		}
 //learning git + Maven
 //making updates and checking in GIT repository		
-	}
+//pull v2
+}
 
